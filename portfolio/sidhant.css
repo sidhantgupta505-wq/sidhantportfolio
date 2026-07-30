@@ -1,11 +1,4 @@
 @media screen and (max-width:768px){
-    *{
-        margin-left:initial;
-        margin-right:initial;
-        transform:none;
-        max-width:100%;
-        box-sizing:border-box;
-    }
 }
 .logo{
     color: white;
