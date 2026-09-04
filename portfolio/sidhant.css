@@ -282,8 +282,8 @@ body{
 
 
 .right img{
-    max-width:100%;
-    height:auto;
+    width:100%;
+    height:470px;
     
     object-fit: cover;
     object-position:center;
